@@ -19,3 +19,5 @@ In 2020, Save the Children US collaborated with Omdena to address online violenc
 At this early stage, different classes of hate were identified. Five among the most important classes of hate were defined as followed:
 
 **Sexism:** Sexism: Refers to acts of violence that: 1) occur or linger in cyberspace; 2) are sexist, or sexual in nature; and 3) who reiterates dominant gender norms targeting girls and boys (tarnishing the former’s reputation and threatening the latter’s masculinity);
+
+***Racism:*** Cyber racism is most commonly defined as racism which occurs in the cyber world. This includes racism which occurs on the internet such as racist websites, images, blogs, videos, and online comments as well as racist comments, images or language in text messages, emails or on social networking sites. It can be defined more broadly as any use of information and communication technologies to transmit racist attitudes and behaviour including the transfer of racially offensive content that is intended to cause harm or distress to another person [4];
