@@ -14,3 +14,8 @@ The project's goal is to reduce the exploitation and abuse of children online, w
 
 In 2020, Save the Children US collaborated with Omdena to address online violence. The most promising of the many solutions that came out of the sprint was a classifier algorithm that used Natural Language Processing to identify online grooming in conjunction with a chatbot that might alert the kids that they could be interacting with a groomer. Three engineers who were involved in the first project's development have since continued to improve the technology. The core team now hopes to extend the effort to develop a largescale, industry-useable solution. For this project, I will use the work that was done by Save the Children US and Omdena as a reference to conduct this project.
 
+## Domain Resreach
+
+At this early stage, different classes of hate were identified. Five among the most important classes of hate were defined as followed:
+
+**Sexism:** Sexism: Refers to acts of violence that: 1) occur or linger in cyberspace; 2) are sexist, or sexual in nature; and 3) who reiterates dominant gender norms targeting girls and boys (tarnishing the former’s reputation and threatening the latter’s masculinity);
